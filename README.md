@@ -18,11 +18,11 @@ T2-weighted (T2)
 advanced-eda-brain-tumor-data.ipynb
 
 # Machine Learning and Deep Learning Solutions
-Brain-tumor-ml-modeling.ipynb
+## Brain-tumor-ml-modeling.ipynb
 I explored the viability of using non-DL models in Medical Image Classification, in a field where much of the research is focused on DL models. This solution involves using a HOG descriptor to extract features and then training non-DL Classifier Models like LogisticRegression, RidgeClassifier, KNeighborsClassifier, DecisionTreeClassifier and a simple Linear Model to predict the classification.
 
 I compared it with training on EfficientNet, a CNN DL model.
 
 
-efficientnet3d-with-one-mri-type.ipynb
+## efficientnet3d-with-one-mri-type.ipynb
 Solution involves an ensemle method where each EfficientNet model is trained on 1 MRI data type and the final prediction is averaged.
