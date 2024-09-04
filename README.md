@@ -15,7 +15,7 @@ T2-weighted (T2)
 
 
 # Detailed Exploratory Data Analysis 
-advanced-eda-brain-tumor-data.ipynb
+## advanced-eda-brain-tumor-data.ipynb
 
 # Machine Learning and Deep Learning Solutions
 ## Brain-tumor-ml-modeling.ipynb
